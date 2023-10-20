@@ -1,0 +1,29 @@
+h1, h3, p, ol, ul, a {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3, p, ul, ol {
+    text-align: justify;
+    margin: 10px auto;
+    width: 35em;
+}
+
+a {
+    display: flex; 
+    justify-content: center;
+}
+
+.image {
+    height: 400px;
+    width: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
