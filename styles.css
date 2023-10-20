@@ -18,9 +18,9 @@ h1 {
 }
 
 ul {
-    text-align: center;
-    list-style-position: inside;
-    font-size: larger;
+    text-align: justify;
+    margin: 10px auto;
+    width: 20em; 
 }
 
 
