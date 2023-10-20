@@ -1,0 +1,26 @@
+h1, ul {
+    font-family: Verdana, "Times New Roman", sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.image {
+    height: 400px;
+    width: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    font-size: larger;
+}
+
+
